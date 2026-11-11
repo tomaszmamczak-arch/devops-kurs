@@ -1,1 +1,2 @@
 App for fun information about
+ App Version: 1.0.0
